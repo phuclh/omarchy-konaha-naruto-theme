@@ -1,0 +1,39 @@
+# Konaha Naruto — an orange-forward cyber-ninja palette for long coding sessions.
+mode = "dark"
+
+accent = "#F07818"
+selection = "#4A2410"
+selection_background = "#4A2410"
+selection_foreground = "#FFF0DF"
+muted = "#98735A"
+
+background = "#100A07"
+dark_background = "#090604"
+darker_background = "#050302"
+lighter_background = "#24130B"
+
+foreground = "#F0D8C1"
+dark_foreground = "#7A5F4D"
+light_foreground = "#D6AD8A"
+bright_foreground = "#FFF0DF"
+
+hyprland_active_border = "rgba(F07818ff) rgba(D65A3Aee) 30deg"
+hyprland_inactive_border = "rgba(6B321Fbb)"
+active_border_color = "#F07818"
+active_tab_background = "#4A2410"
+
+red = "#D65A3A"
+yellow = "#E7A63D"
+orange = "#F07818"
+green = "#7E9A62"
+cyan = "#72A49B"
+blue = "#7698AA"
+magenta = "#A97586"
+brown = "#B66C35"
+
+bright_red = "#E86B45"
+bright_yellow = "#F5B94E"
+bright_green = "#95B675"
+bright_cyan = "#88C0B5"
+bright_blue = "#8FB4C4"
+bright_magenta = "#C28A9C"
